@@ -1,5 +1,6 @@
 package com.gildedrose;
 
+
 public class Item {
 
     final String name;
